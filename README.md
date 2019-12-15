@@ -71,6 +71,7 @@ _A list of my commonly used Git commands_
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
+### Managing remote repositories
 
 | Command | Description |
 | ------- | ----------- |
