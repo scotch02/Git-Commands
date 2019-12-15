@@ -70,3 +70,10 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+
+| Command | Description |
+| ------- | ----------- |
+| `git remote rm [destination]` | remove a remote URL from your repository |
+| `git remote -v` | View current remotes |
+| `git remote add origin https://github.com/user/repo.git` | Set a new remote |
